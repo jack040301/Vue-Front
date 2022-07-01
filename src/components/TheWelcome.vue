@@ -1,6 +1,9 @@
-<script setup>
-</script>
+<script>
 
+export default {
+  
+}
+</script>
 <template>
 <div class="navbar bg-base-100">
    <div class="flex-1">
@@ -14,4 +17,6 @@
       </label>
 </div>
 </div>
+
+
 </template>

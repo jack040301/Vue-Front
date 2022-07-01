@@ -1,8 +1,13 @@
 <template>
   <div class="about">
-    <h1>This is an about page</h1>
+    <h1 className="text-center">Tailwind CSS</h1>
   </div>
+
 </template>
+
+<script>
+
+</script>
 
 <style>
 @media (min-width: 1024px) {

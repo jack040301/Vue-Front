@@ -5,9 +5,9 @@ export default {
 }
 </script>
 <template>
-<div class="navbar bg-base-100">
+<div class="navbar ">
    <div class="flex-1">
-  <a class="btn btn-ghost normal-case text-xl">daisyUI</a>
+  <a class="btn btn-ghost normal-case text-xl">JAXKDAXZKI</a>
    </div>
    <div class="flex-none">
     <label tabindex="0" class="btn btn-ghost btn-circle avatar">

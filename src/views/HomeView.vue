@@ -1,6 +1,6 @@
 <script setup>
-import TheWelcome from "@/components/TheWelcome.vue";
-import HelloWorld from "../components/HelloWorld.vue";
+import TheWelcome from "@/components/Header.vue";
+import HelloWorld from "../components/LandingComponent.vue";
 import WelcomeItem from "../components/WelcomeItem.vue";
 import Footer from "../components/Footer.vue";
 import SideItem from "../components/SideItem.vue";

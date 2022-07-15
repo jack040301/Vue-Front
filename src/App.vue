@@ -1,6 +1,6 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
-import TheWelcome from './components/TheWelcome.vue';
+import TheWelcome from '@/components/Header.vue';
 
 </script>
 
